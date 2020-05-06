@@ -1,2 +1,2 @@
 # Lab2--ComputerSystems
-Arithmetic operations with binary numbers: multiplying, division, multiplying the floats 
+Arithmetic operations with binary numbers: multiplying, division, multiplying the floats (ALU imitations)
